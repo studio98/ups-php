@@ -34,7 +34,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "wikimedia/composer-merge-plugin": "^2.1.0",
-        "guzzlehttp/guzzle": "^7.3",
+        "guzzlehttp/guzzle": "^6.0",
         "guzzlehttp/psr7": "^1.7 || ^2.0"
     },
     "extra": {
